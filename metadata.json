@@ -1,0 +1,8 @@
+{
+  "name": "Apex Academy SMS - Modern School Management System",
+  "description": "Enterprise-grade school management platform with multi-role access (Admin, Teacher, Student, Parent), attendance tracker, gradebook, timetable scheduling, fee invoicing, and student records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
